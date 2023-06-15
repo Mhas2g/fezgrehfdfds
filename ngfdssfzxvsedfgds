@@ -1,0 +1,18 @@
+while wait() do
+game.Workspace.Lobby.LobbyElevators:GetChildren()[6].DoorSet.Door.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+game.Workspace.Lobby.LobbyElevators:GetChildren()[4]:GetChildren()[5].DoorClosed.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+game.Workspace.Lobby.LobbyElevators:GetChildren()[4].DoorSet.DoorClosed.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+game.Workspace.Lobby.LobbyElevators:GetChildren()[9].DoorSet.Door.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+game.Workspace.Lobby.LobbyElevators:GetChildren()[9].DoorSet.DoorClosed.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+game.Workspace.Lobby.LobbyElevators:GetChildren()[9]:GetChildren()[5].DoorClosed.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+game.Workspace.Lobby.LobbyElevators:GetChildren()[9]:GetChildren()[5].Door.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+game.Workspace.Lobby.LobbyElevators:GetChildren()[7].DoorSet.Door.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+game.Workspace.Lobby.LobbyElevators:GetChildren()[7]:GetChildren()[5].Door.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+game.Workspace.Lobby.LobbyElevators:GetChildren()[8].DoorSet.Door.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+game.Workspace.Lobby.LobbyElevators:GetChildren()[8]:GetChildren()[5].Door.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+game.Workspace.Lobby.LobbyElevators:GetChildren()[10]:GetChildren()[5].Door.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+game.Workspace.Lobby.LobbyElevators:GetChildren()[10].DoorSet.Door.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+game.Workspace.Lobby.LobbyElevators:GetChildren()[5]:GetChildren()[5].Door.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+game.Workspace.Lobby.LobbyElevators:GetChildren()[5].DoorSet.Door.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+game.Workspace.Lobby.LobbyElevators:GetChildren()[6]:GetChildren()[5].Door.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+end
